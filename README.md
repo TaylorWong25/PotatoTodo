@@ -2,12 +2,11 @@
 [![Build Status](https://travis-ci.org/zhangchaoxu/PotatoTodo.png?branch=master)](https://travis-ci.org/zhangchaoxu/PotatoTodo)
 
 ## About PotatoTodo
-PotatoTodo is a TODO tool. With this tool, u can record your dialy TODO task in you mobile phone.
+PotatoTodo is a TODO tool. With this tool, you can record your daily TODO tasks with you mobile phone.    
+[![Android](http://mudlab9.com/static/image/btn_android.png)](https://play.google.com/store/apps/details?id=)
 
 ## Why Potato
 In Chinese, Potato(土豆, ToDou) is pronounced like TODO, that's why this app called PotatoTodo.
-
-[![Android](http://mudlab9.com/static/image/btn_android.png)](https://play.google.com/store/apps/details?id=)
 
 ## About Me
 See [Blog](http://lean56.com)
